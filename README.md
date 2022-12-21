@@ -5,7 +5,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 
 
-<p class="title"> TECNOLOGIAS UTILIZADAS!</p>
+<h1 class="title"> TECNOLOGIAS UTILIZADAS!</h1>
 
   <ul>
   <li>Javascript</li>
