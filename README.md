@@ -15,6 +15,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
   <li>Firebase</li>
 </ul>
 
+
+<p class="title"> Feito por Nando sousa By Linkedin: https://www.linkedin.com/in/anderson-almeida-de-sousa-9553a319b/</p>
+
 <p class="title"> Link do Site!</p>
 
    https://sociallinkss.netlify.app/
