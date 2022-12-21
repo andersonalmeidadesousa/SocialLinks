@@ -2,7 +2,23 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+
+
+
+<p class="title"> TECNOLOGIAS UTILIZADAS!</p>
+
+  <ul>
+  <li>Javascript</li>
+  <li>React</li>
+  <li>Style components</li>
+  <li>NodeJS</li>
+  <li>Firebase</li>
+</ul>
+
+![Animação](https://user-images.githubusercontent.com/76077941/208981150-9d063eda-9e75-44ab-a9e3-c445f49a78b9.gif)
+
+
+
 
 In the project directory, you can run:
 
